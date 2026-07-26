@@ -1,0 +1,294 @@
+{
+  "pbtResults": {
+    "1.2 Write property tests for useLongPress hook": {
+      "status": "passed",
+      "lastRunTimestamp": 1785062707631
+    },
+    "3.2 Write property test for viewport clamping": {
+      "status": "passed",
+      "lastRunTimestamp": 1785062981725
+    }
+  },
+  "executionHistory": {
+    "1.1 Create `src/hooks/useLongPress.ts` with long-press detection logic": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347016
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062356567
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062608961
+      }
+    ],
+    "1.2 Write property tests for useLongPress hook": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347119
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062619501
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062758960
+      }
+    ],
+    "1.3 Verify viewport meta tag in `index.html`": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347217
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062357230
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062609873
+      }
+    ],
+    "2.1 Add `MapLongPressHandler` component inside `src/components/MapView.tsx`": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347302
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062620260
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062759045
+      }
+    ],
+    "3.1 Update `src/components/ReviewMarker.tsx` with long-press for mobile context menu": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347398
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062773102
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062884637
+      }
+    ],
+    "3.2 Write property test for viewport clamping": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347469
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062893025
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063004801
+      }
+    ],
+    "4.1 Update `src/components/RecentReviewsCard.tsx` for collapsed-by-default on mobile": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347550
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062358046
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062610832
+      }
+    ],
+    "5.1 Update `src/App.css` with comprehensive mobile media query block": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347635
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062620979
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062759774
+      }
+    ],
+    "5.2 Update `src/components/MarkerForm.tsx` to add CSS class for mobile targeting": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347721
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062621723
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062760724
+      }
+    ],
+    "5.3 Update `src/components/StarRating.tsx` for mobile touch targets": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347809
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062622568
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062763481
+      }
+    ],
+    "6. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347886
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063131909
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063172545
+      }
+    ],
+    "7.1 Wire all components together and verify desktop preservation": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062347976
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062893723
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063005555
+      }
+    ],
+    "7.2 Write unit tests for mobile adaptations": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062348053
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063015074
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063123279
+      }
+    ],
+    "8. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062348125
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063177269
+      },
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063219837
+      }
+    ],
+    "4. Update RecentReviewsCard for mobile": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062610955
+      }
+    ],
+    "1. Create the useLongPress hook and verify viewport meta tag": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062759100
+      }
+    ],
+    "2. Add mobile map long-press interaction": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062759158
+      }
+    ],
+    "5. Expand CSS media queries for all mobile adaptations": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785062763566
+      }
+    ],
+    "3. Add mobile long-press context menu to ReviewMarker": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063004874
+      }
+    ],
+    "7. Integration verification and final polish": [
+      {
+        "executionId": "90c6c9a5-3daf-4116-9e50-d31800fe7496",
+        "chatSessionId": "sess_d474ec69-1ed9-4db9-bdc8-fe03a38d21b1",
+        "timestamp": 1785063123383
+      }
+    ]
+  }
+}

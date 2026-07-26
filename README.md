@@ -1,3 +1,7 @@
+
+IMPORTANT NOTE: This project was mostly made with the use of Kiro, an AI-powered agentic IDE. This project was at first made for my own personal practice without using an AI but after discovering Kiro, I decided to use this project for experimentation and learning specifically when it comes to web development with the use of Kiro and its many features.
+
+----------------------------------------------------------------------------------------------------
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -30,3 +34,6 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+
+
